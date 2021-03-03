@@ -1,2 +1,2 @@
-# Ignora arquivos binários
-*.o
+# Ignora pasta de arquivos binários
+/.bin
